@@ -884,3 +884,6 @@
 {"n":884,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard west escape. Ivo keeps the hydrant for the start. 8 steps, direct on the left lane, open."}
 {"n":885,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west escape. direct left open. 2 steps. The hydrant stays for the start."}
 {"n":886,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Switchyard. Nobody past the west escape. We start in 3 steps. Direct on the left lane, open."}
+{"n":887,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard west escape. Bess keeps the hydrant for the start. 4 steps, direct on the left lane, open."}
+{"n":888,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west escape. direct left open. 5 steps. The hydrant stays for the start."}
+{"n":889,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Drydock. Nobody past the west escape. We start in 6 steps. Direct on the left lane, open."}
