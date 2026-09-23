@@ -50,3 +50,6 @@
 {"n":50,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at South stair. Nobody past the north escape. We start in 2 steps. Direct on the left lane, open."}
 {"n":51,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair north escape. Bess keeps the barrel for the start. 3 steps, direct on the left lane, open."}
 {"n":52,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north escape. direct left open. 4 steps. The barrel stays for the start."}
+{"n":53,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at the pier. Nobody past the north escape. We start in 5 steps. Direct on the left lane, open."}
+{"n":54,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier north escape. Matt keeps the barrel for the start. 6 steps, direct on the left lane, open."}
+{"n":55,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north escape. direct left open. 7 steps. The barrel stays for the start."}
