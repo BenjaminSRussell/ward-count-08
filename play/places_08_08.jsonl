@@ -960,3 +960,6 @@
 {"n":960,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south escape. direct left open. 8 steps. The hydrant stays for the start."}
 {"n":961,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Ward gate. Nobody past the south escape. We start in 2 steps. Direct on the left lane, open."}
 {"n":962,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south escape. Matt keeps the barrel for the start. 3 steps, direct on the left lane, open."}
+{"n":963,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south escape. direct left open. 4 steps. The barrel stays for the start."}
+{"n":964,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Ward gate. Nobody past the south escape. We start in 5 steps. Direct on the left lane, open."}
+{"n":965,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate south escape. Nia keeps the barrel for the start. 6 steps, direct on the left lane, open."}
