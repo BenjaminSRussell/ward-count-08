@@ -698,3 +698,6 @@
 {"n":698,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at South stair. Nobody past the east escape. We start in 2 steps. Direct on the left lane, open."}
 {"n":699,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair east escape. Bess keeps the plywood for the start. 3 steps, direct on the left lane, open."}
 {"n":700,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east escape. direct left open. 4 steps. The plywood stays for the start."}
+{"n":701,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at the pier. Nobody past the east escape. We start in 5 steps. Direct on the left lane, open."}
+{"n":702,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier east escape. Matt keeps the plywood for the start. 6 steps, direct on the left lane, open."}
+{"n":703,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east escape. direct left open. 7 steps. The plywood stays for the start."}
