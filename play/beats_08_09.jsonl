@@ -654,3 +654,6 @@
 {"n":654,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Kessler alley. Nobody past the south escape. We start in 2 steps. Direct on the left lane, open."}
 {"n":655,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley south escape. Bess keeps the rope for the start. 3 steps, direct on the left lane, open."}
 {"n":656,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south escape. direct left open. 4 steps. The rope stays for the start."}
+{"n":657,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at the Lot. Nobody past the south escape. We start in 5 steps. Direct on the left lane, open."}
+{"n":658,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot south escape. Matt keeps the rope for the start. 6 steps, direct on the left lane, open."}
+{"n":659,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south escape. direct left open. 7 steps. The rope stays for the start."}
