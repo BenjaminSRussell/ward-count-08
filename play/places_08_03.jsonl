@@ -440,3 +440,6 @@
 {"n":440,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west escape. direct left open. 4 steps. The rebar stays for the start."}
 {"n":441,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at the Lot. Nobody past the west escape. We start in 5 steps. Direct on the left lane, open."}
 {"n":442,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot west escape. Matt keeps the rebar for the start. 6 steps, direct on the left lane, open."}
+{"n":443,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west escape. direct left open. 7 steps. The rebar stays for the start."}
+{"n":444,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at the Lot. Nobody past the west escape. We start in 8 steps. Direct on the left lane, open."}
+{"n":445,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot west escape. Nia keeps the rebar for the start. 2 steps, direct on the left lane, open."}
