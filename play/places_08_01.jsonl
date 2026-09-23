@@ -169,3 +169,6 @@
 {"n":169,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south court. direct left open. 8 steps. The crate stays for the start."}
 {"n":170,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at South stair. Nobody past the south court. We start in 2 steps. Direct on the left lane, open."}
 {"n":171,"kind":"place","name":"South stair south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair south court. Bess keeps the crate for the start. 3 steps, direct on the left lane, open."}
+{"n":172,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south court. direct left open. 4 steps. The crate stays for the start."}
+{"n":173,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at the pier. Nobody past the south court. We start in 5 steps. Direct on the left lane, open."}
+{"n":174,"kind":"place","name":"the pier south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier south court. Matt keeps the crate for the start. 6 steps, direct on the left lane, open."}
