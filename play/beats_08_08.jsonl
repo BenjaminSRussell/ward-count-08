@@ -748,3 +748,6 @@
 {"n":748,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Clinic roof. Nobody past the south escape. We start in 6 steps. Direct on the left lane, open."}
 {"n":749,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof south escape. Nia keeps the plywood for the start. 7 steps, direct on the left lane, open."}
 {"n":750,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south escape. direct left open. 8 steps. The plywood stays for the start."}
+{"n":751,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Clinic roof. Nobody past the south escape. We start in 2 steps. Direct on the left lane, open."}
+{"n":752,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof south escape. Ivo keeps the plywood for the start. 3 steps, direct on the left lane, open."}
+{"n":753,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south escape. direct left open. 4 steps. The plywood stays for the start."}
