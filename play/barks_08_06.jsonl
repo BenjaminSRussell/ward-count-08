@@ -736,3 +736,6 @@
 {"n":736,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof north escape. Ivo keeps the plywood for the start. 3 steps, direct on the left lane, open."}
 {"n":737,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north escape. direct left open. 4 steps. The plywood stays for the start."}
 {"n":738,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Clinic roof. Nobody past the north escape. We start in 5 steps. Direct on the left lane, open."}
+{"n":739,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof north escape. Bess keeps the plywood for the start. 6 steps, direct on the left lane, open."}
+{"n":740,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north escape. direct left open. 7 steps. The plywood stays for the start."}
+{"n":741,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Switchyard. Nobody past the north escape. We start in 8 steps. Direct on the left lane, open."}
