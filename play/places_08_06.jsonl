@@ -695,3 +695,6 @@
 {"n":695,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north escape. direct left open. 4 steps. The plywood stays for the start."}
 {"n":696,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Last Light. Nobody past the north escape. We start in 5 steps. Direct on the left lane, open."}
 {"n":697,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light north escape. Nia keeps the plywood for the start. 6 steps, direct on the left lane, open."}
+{"n":698,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north escape. direct left open. 7 steps. The plywood stays for the start."}
+{"n":699,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Last Light. Nobody past the north escape. We start in 8 steps. Direct on the left lane, open."}
+{"n":700,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light north escape. Ivo keeps the plywood for the start. 2 steps, direct on the left lane, open."}
