@@ -140,3 +140,6 @@
 {"n":140,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. direct left open. 6 steps. The crate stays for the start."}
 {"n":141,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Kessler alley. Nobody past the south escape. We start in 7 steps. Direct on the left lane, open."}
 {"n":142,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the crate for the start. 8 steps, direct on the left lane, open."}
+{"n":143,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. direct left open. 2 steps. The crate stays for the start."}
+{"n":144,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Kessler alley. Nobody past the south escape. We start in 3 steps. Direct on the left lane, open."}
+{"n":145,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley south escape. Nia keeps the crate for the start. 4 steps, direct on the left lane, open."}
