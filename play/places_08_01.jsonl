@@ -214,3 +214,6 @@
 {"n":214,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south court. direct left open. 4 steps. The crate stays for the start."}
 {"n":215,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Drydock. Nobody past the south court. We start in 5 steps. Direct on the left lane, open."}
 {"n":216,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock south court. Ivo keeps the crate for the start. 6 steps, direct on the left lane, open."}
+{"n":217,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south court. direct left open. 7 steps. The crate stays for the start."}
+{"n":218,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Drydock. Nobody past the south court. We start in 8 steps. Direct on the left lane, open."}
+{"n":219,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock south court. Bess keeps the crate for the start. 2 steps, direct on the left lane, open."}
