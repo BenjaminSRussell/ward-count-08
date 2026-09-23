@@ -736,3 +736,6 @@
 {"n":736,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at the pier. Nobody past the south escape. We start in 8 steps. Direct on the left lane, open."}
 {"n":737,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier south escape. Nia keeps the plywood for the start. 2 steps, direct on the left lane, open."}
 {"n":738,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. direct left open. 3 steps. The plywood stays for the start."}
+{"n":739,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at the pier. Nobody past the south escape. We start in 4 steps. Direct on the left lane, open."}
+{"n":740,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier south escape. Ivo keeps the plywood for the start. 5 steps, direct on the left lane, open."}
+{"n":741,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. direct left open. 6 steps. The plywood stays for the start."}
