@@ -483,3 +483,6 @@
 {"n":483,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Stockyard fence. Nobody past the east escape. We start in 2 steps. Direct on the left lane, open."}
 {"n":484,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the radio coil for the start. 3 steps, direct on the left lane, open."}
 {"n":485,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. direct left open. 4 steps. The radio coil stays for the start."}
+{"n":486,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the east escape. We start in 5 steps. Direct on the left lane, open."}
+{"n":487,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence east escape. Bess keeps the radio coil for the start. 6 steps, direct on the left lane, open."}
+{"n":488,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east escape. direct left open. 7 steps. The radio coil stays for the start."}
