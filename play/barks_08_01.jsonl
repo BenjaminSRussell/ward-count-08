@@ -276,3 +276,6 @@
 {"n":276,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence south court. Ivo keeps the lamp for the start. 3 steps, direct on the left lane, open."}
 {"n":277,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south court. direct left open. 4 steps. The lamp stays for the start."}
 {"n":278,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Stockyard fence. Nobody past the south court. We start in 5 steps. Direct on the left lane, open."}
+{"n":279,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence south court. Bess keeps the lamp for the start. 6 steps, direct on the left lane, open."}
+{"n":280,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south court. direct left open. 7 steps. The lamp stays for the start."}
+{"n":281,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Mall court. Nobody past the south court. We start in 8 steps. Direct on the left lane, open."}
