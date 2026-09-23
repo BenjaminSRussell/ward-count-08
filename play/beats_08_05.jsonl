@@ -883,3 +883,6 @@
 {"n":883,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at the pier. Nobody past the east escape. We start in 4 steps. Direct on the left lane, open."}
 {"n":884,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier east escape. Ivo keeps the shutter for the start. 5 steps, direct on the left lane, open."}
 {"n":885,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east escape. direct left open. 6 steps. The shutter stays for the start."}
+{"n":886,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at the pier. Nobody past the east escape. We start in 7 steps. Direct on the left lane, open."}
+{"n":887,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier east escape. Bess keeps the shutter for the start. 8 steps, direct on the left lane, open."}
+{"n":888,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east escape. direct left open. 2 steps. The shutter stays for the start."}
