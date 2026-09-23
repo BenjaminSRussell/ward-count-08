@@ -448,3 +448,6 @@
 {"n":448,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. direct left open. 8 steps. The lamp stays for the start."}
 {"n":449,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Ward gate. Nobody past the north escape. We start in 2 steps. Direct on the left lane, open."}
 {"n":450,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate north escape. Matt keeps the rebar for the start. 3 steps, direct on the left lane, open."}
+{"n":451,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north escape. direct left open. 4 steps. The rebar stays for the start."}
+{"n":452,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Ward gate. Nobody past the north escape. We start in 5 steps. Direct on the left lane, open."}
+{"n":453,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate north escape. Nia keeps the rebar for the start. 6 steps, direct on the left lane, open."}
