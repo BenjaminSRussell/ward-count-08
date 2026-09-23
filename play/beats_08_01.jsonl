@@ -872,3 +872,6 @@
 {"n":872,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Switchyard. Nobody past the south court. We start in 4 steps. Direct on the left lane, open."}
 {"n":873,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard south court. Nia keeps the shutter for the start. 5 steps, direct on the left lane, open."}
 {"n":874,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south court. direct left open. 6 steps. The shutter stays for the start."}
+{"n":875,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Switchyard. Nobody past the south court. We start in 7 steps. Direct on the left lane, open."}
+{"n":876,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard south court. Ivo keeps the shutter for the start. 8 steps, direct on the left lane, open."}
+{"n":877,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south court. direct left open. 2 steps. The shutter stays for the start."}
