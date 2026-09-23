@@ -895,3 +895,6 @@
 {"n":895,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south court. Bess keeps the hydrant for the start. 7 steps, direct on the left lane, open."}
 {"n":896,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south court. direct left open. 8 steps. The hydrant stays for the start."}
 {"n":897,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Ward gate. Nobody past the south court. We start in 2 steps. Direct on the left lane, open."}
+{"n":898,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south court. Matt keeps the barrel for the start. 3 steps, direct on the left lane, open."}
+{"n":899,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south court. direct left open. 4 steps. The barrel stays for the start."}
+{"n":900,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Ward gate. Nobody past the south court. We start in 5 steps. Direct on the left lane, open."}
