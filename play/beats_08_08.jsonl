@@ -721,3 +721,6 @@
 {"n":721,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at South stair. Nobody past the south escape. We start in 7 steps. Direct on the left lane, open."}
 {"n":722,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair south escape. Matt keeps the plywood for the start. 8 steps, direct on the left lane, open."}
 {"n":723,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south escape. direct left open. 2 steps. The plywood stays for the start."}
+{"n":724,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at South stair. Nobody past the south escape. We start in 3 steps. Direct on the left lane, open."}
+{"n":725,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair south escape. Nia keeps the plywood for the start. 4 steps, direct on the left lane, open."}
+{"n":726,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south escape. direct left open. 5 steps. The plywood stays for the start."}
