@@ -191,3 +191,6 @@
 {"n":191,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light east escape. Bess keeps the crate for the start. 5 steps, direct on the left lane, open."}
 {"n":192,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east escape. direct left open. 6 steps. The crate stays for the start."}
 {"n":193,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at South stair. Nobody past the east escape. We start in 7 steps. Direct on the left lane, open."}
+{"n":194,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair east escape. Matt keeps the crate for the start. 8 steps, direct on the left lane, open."}
+{"n":195,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east escape. direct left open. 2 steps. The crate stays for the start."}
+{"n":196,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at South stair. Nobody past the east escape. We start in 3 steps. Direct on the left lane, open."}
