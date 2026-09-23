@@ -615,3 +615,6 @@
 {"n":615,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east escape. direct left open. 2 steps. The rope stays for the start."}
 {"n":616,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Kessler alley. Nobody past the east escape. We start in 3 steps. Direct on the left lane, open."}
 {"n":617,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley east escape. Nia keeps the rope for the start. 4 steps, direct on the left lane, open."}
+{"n":618,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east escape. direct left open. 5 steps. The rope stays for the start."}
+{"n":619,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Kessler alley. Nobody past the east escape. We start in 6 steps. Direct on the left lane, open."}
+{"n":620,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley east escape. Ivo keeps the rope for the start. 7 steps, direct on the left lane, open."}
