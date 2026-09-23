@@ -543,3 +543,6 @@
 {"n":543,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at South stair. Nobody past the east escape. We start in 6 steps. Direct on the left lane, open."}
 {"n":544,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair east escape. Ivo keeps the radio coil for the start. 7 steps, direct on the left lane, open."}
 {"n":545,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east escape. direct left open. 8 steps. The radio coil stays for the start."}
+{"n":546,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at South stair. Nobody past the east escape. We start in 2 steps. Direct on the left lane, open."}
+{"n":547,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east escape. Bess keeps the radio coil for the start. 3 steps, direct on the left lane, open."}
+{"n":548,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east escape. direct left open. 4 steps. The radio coil stays for the start."}
