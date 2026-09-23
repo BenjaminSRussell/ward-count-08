@@ -689,3 +689,6 @@
 {"n":689,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south court. direct left open. 4 steps. The plywood stays for the start."}
 {"n":690,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Clinic roof. Nobody past the south court. We start in 5 steps. Direct on the left lane, open."}
 {"n":691,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof south court. Bess keeps the plywood for the start. 6 steps, direct on the left lane, open."}
+{"n":692,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south court. direct left open. 7 steps. The plywood stays for the start."}
+{"n":693,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Switchyard. Nobody past the south court. We start in 8 steps. Direct on the left lane, open."}
+{"n":694,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard south court. Matt keeps the plywood for the start. 2 steps, direct on the left lane, open."}
