@@ -295,3 +295,6 @@
 {"n":295,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north escape. direct left open. 2 steps. The lamp stays for the start."}
 {"n":296,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Kessler alley. Nobody past the north escape. We start in 3 steps. Direct on the left lane, open."}
 {"n":297,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley north escape. Nia keeps the lamp for the start. 4 steps, direct on the left lane, open."}
+{"n":298,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north escape. direct left open. 5 steps. The lamp stays for the start."}
+{"n":299,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Kessler alley. Nobody past the north escape. We start in 6 steps. Direct on the left lane, open."}
+{"n":300,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north escape. Ivo keeps the lamp for the start. 7 steps, direct on the left lane, open."}
