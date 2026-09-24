@@ -991,3 +991,6 @@
 {"n":991,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley south escape. Bess keeps the awning for the start. 3 steps, direct on the left lane, open."}
 {"n":992,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south escape. direct left open. 4 steps. The awning stays for the start."}
 {"n":993,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at the Lot. Nobody past the south escape. We start in 5 steps. Direct on the left lane, open."}
+{"n":994,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot south escape. Matt keeps the awning for the start. 6 steps, direct on the left lane, open."}
+{"n":995,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south escape. direct left open. 7 steps. The awning stays for the start."}
+{"n":996,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at the Lot. Nobody past the south escape. We start in 8 steps. Direct on the left lane, open."}
